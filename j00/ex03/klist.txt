@@ -1,0 +1,8 @@
+Credentials cache: API:8FD8FB11-F999-48BF-881E-9BF9B5917453
+        Principal: lde-batz@42.FR
+
+  Issued                Expires               Principal
+Jul 30 14:09:03 2018  Aug  6 14:09:03 2018  krbtgt/42.FR@42.FR
+Jul 30 14:09:05 2018  Aug  6 14:09:03 2018  ldap/ldap-proxy.42.fr@42.FR
+Jul 30 14:09:05 2018  Aug  6 14:09:03 2018  HTTP/student-storage-2.42.fr@42.FR
+Jul 30 14:55:54 2018  Aug  6 14:09:03 2018  host/vgs-fn1.42.fr@42.FR
